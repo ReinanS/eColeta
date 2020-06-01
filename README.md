@@ -1,2 +1,2 @@
-# ecoleta-next-level-week
+# eColeta
 Development of a waste collection application, during Next Level Week.
