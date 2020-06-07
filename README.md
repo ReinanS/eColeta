@@ -9,11 +9,11 @@
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
-  <!-->
+  <!--
   <a>
   <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
   </a>
-  <-->
+  -->
   <br><br>
 </p>
 
@@ -33,7 +33,7 @@ O <strong>Ecoleta</strong> é uma aplicação Web e Mobile para ajudar pessoas a
 Essa aplicação foi construída na trilha <strong>Starter</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/). A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidência da data do curso e a data da <strong>semana do meio ambiente</strong>
 
 
-<!--> CRIAR UMA DOCUMENTAÇÃO (https://github.com/vitorserrano/ecoleta/blob/master/DOCUMENTATION.md)<-->
+<!-- CRIAR UMA DOCUMENTAÇÃO (https://github.com/vitorserrano/ecoleta/blob/master/DOCUMENTATION.md)-->
 
 <a id="tecnologias-utilizadas"></a>
 
@@ -47,10 +47,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Nodemon](https://nodemon.io/)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-<!-->
+<!--
 ## Resultado:
 
-Aqui vou colocar uma imagem gif <-->
+Aqui vou colocar uma imagem gif -->
 <h1 align="center">
     <img alt="Web" src="#" width="900px">
 </h1>
@@ -94,12 +94,12 @@ Aqui vou colocar uma imagem gif <-->
 
 As aulas foram ministradas pelo instrutor **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week**.
 
-<!-->
+<!--
 ## License
 
 Devo criar um arquivo LICENSE.md
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-<-->
+-->
 ---
 
 <h4 align="center">
