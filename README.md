@@ -19,9 +19,9 @@
 
 # Index
 
-- [about](#about)
+- [About](#about)
 - [Technologies Used](#technologies-used)
-- [how to use](#how-to-use)
+- [How to Use](#how-to-use)
 - [How to Contribute](#how-to-contribute)
 
 <a id="about"></a>
@@ -30,7 +30,7 @@
 
 <strong>Ecoleta</strong> is a web application to help people find collection points for recycling.
 
-This application was built on the <strong>Next Level Week Starter</strong> track distributed by [Rocketseat] (https://rocketseat.com.br/). The idea of ​​creating an application focused on the environment arose from the coincidence of the course date and the date of the <strong>environment week</strong>
+This application was built on the <strong>Next Level Week Starter</strong> track distributed by [Rocketseat](https://rocketseat.com.br/). The idea of ​​creating an application focused on the environment arose from the coincidence of the course date and the date of the <strong>environment week</strong>
 
 
 <!-- CRIAR UMA DOCUMENTAÇÃO (https://github.com/vitorserrano/ecoleta/blob/master/DOCUMENTATION.md)-->
@@ -88,13 +88,13 @@ Aqui vou colocar uma imagem gif -->
 
 - Fork this repository,
 - Create a branch with your resource: `git checkout -b my-feature`
-- Commit your changes: `git commit -m 'feat: My new feature' '
+- Commit your changes: `git commit -m 'feat: My new feature`
 - Push your branch: `git push origin my-feature`
 
 
 ## Who ministered?
 
-The classes were taught by the instructor **[Mayk Brito] (https://github.com/maykbrito)** in the **Next Level Week** classes.
+The classes were taught by the instructor **[Mayk Brito](https://github.com/maykbrito)** in the **Next Level Week** classes.
 
 <!--
 ## License
