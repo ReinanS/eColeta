@@ -23,7 +23,8 @@ function getCities(event) {
     const indexOfSelectedState = event.target.selectedIndex
     stateInput.value = event.target.options[indexOfSelectedState].text
 
-    const url = `https://servicodados.ibge.gov.br/api/v1/localidades/estados/33/municipios`
+    const url = `https://servicodados.ibge.gov.br/api/v1/localidades/estados/${ufValue}/municipios
+    `
 
     citySelect.innerHTML = "<option value>Selecione a Cidade</option>"
     citySelect.disabled = true;
@@ -47,9 +48,9 @@ document
     .querySelector("select[name=uf]")
     .addEventListener("change", getCities)
 
-// itens de coleta
-// pegar todos os li
 
+// itens de coleta
+// pegar todos os li`s
 const itemsToCollect = document.querySelectorAll(".items-grid li")
 
 for(const item of itemsToCollect) {
@@ -68,6 +69,8 @@ function handleSelectedItem(event) {
     itemLi.classList.toggle("selected")
 
     const itemId = itemLi.dataset.id
+
+    //console.log('ITEM ID: ' , itemId)
     
     // verificar se existem itens selecionados, se sim
     // pegar os items selecionados
@@ -77,7 +80,7 @@ function handleSelectedItem(event) {
         return itemFound
     })
 
-    // se já estiver selecionado, tirar da seleção
+    // se já estiver selecionado, 
     if (alreadySelected >= 0) {
         // tirar da selecao
         const filteredItems = selectedItems.filter( item => {
@@ -91,6 +94,8 @@ function handleSelectedItem(event) {
         // adicionar à selecao
         selectedItems.push(itemId)
     }
+
+    //console.log('selectedItems: ', selectedItems)
 
     // atualizar o campo escondido com os item selecionados
     collectedItems.value = selectedItems
