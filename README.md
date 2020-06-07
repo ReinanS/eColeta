@@ -1,7 +1,7 @@
 <h3 align="center">
     <img alt="Logo" title="#logo" width="300px" src=".github/logo.png">
     <br><br>
-    <b>Recicle! ajude o meio ambiente!</b>  
+    <b>Recycle! Help the environment!</b>  
     <br>
 </h3>
 
@@ -17,29 +17,29 @@
   <br><br>
 </p>
 
-# Índice
+# Index
 
-- [Sobre](#sobre)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Usar](#como-usar)
-- [Como Contribuir](#como-contribuir)
+- [about](#about)
+- [Technologies Used](#technologies-used)
+- [how to use](#how-to-use)
+- [How to Contribute](#how-to-contribute)
 
-<a id="sobre"></a>
+<a id="about"></a>
 
-## Sobre
+## About
 
-O <strong>Ecoleta</strong> é uma aplicação Web e Mobile para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
+<strong>Ecoleta</strong> is a web application to help people find collection points for recycling.
 
-Essa aplicação foi construída na trilha <strong>Starter</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/). A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidência da data do curso e a data da <strong>semana do meio ambiente</strong>
+This application was built on the <strong>Next Level Week Starter</strong> track distributed by [Rocketseat] (https://rocketseat.com.br/). The idea of ​​creating an application focused on the environment arose from the coincidence of the course date and the date of the <strong>environment week</strong>
 
 
 <!-- CRIAR UMA DOCUMENTAÇÃO (https://github.com/vitorserrano/ecoleta/blob/master/DOCUMENTATION.md)-->
 
-<a id="tecnologias-utilizadas"></a>
+<a id="technologies-used"></a>
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+The project was developed using the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [SQLite3](https://www.sqlite.org/version3.html)
@@ -50,49 +50,51 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 <!--
 ## Resultado:
 
-Aqui vou colocar uma imagem gif -->
 <h1 align="center">
     <img alt="Web" src="#" width="900px">
 </h1>
 
-<a id="como-usar"></a>
+Aqui vou colocar uma imagem gif -->
 
-## Como usar
+<a id="how-to-use"></a>
 
-- ### **Pré-requisitos**
+## How to Use
 
-  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado na máquina
-  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
-  - Por fim, é **essencial** ter o **[Express](https://expressjs.com/pt-br/)**.
+- ### **Pre-requisites**
 
-1. Faça um clone :
+  - It is **necessary** to have the **[Node.js](https://nodejs.org/en/)** installed on the machine
+  - Also, it is **precise** to have a package manager either **[NPM](https://www.npmjs.com/)** or **[Yarn](https://yarnpkg.com/)**.
+  - Finally, it is **essential** to have the **[Express](https://expressjs.com/pt-br/)**.
+
+1. Make a clone:
 
 ```sh
   $ git clone https://github.com/ReinanS/eColeta.git
 ```
 
-2. Executando a Aplicação:
+2. Running the Application:
 
 ```sh
-  # Instale as dependências
+  # Install as dependencies
   $ npm install
 
-  # Inicie a aplicação web
+  # Launch the web application
   $ npm start
 ```
 
-<a id="como-contribuir"></a>
+<a id="how-to-contribute"></a>
 
-## Como contribuir
+## How to Contribute
 
-- Faça um Fork desse repositório,
-- Crie uma branch com a sua feature: `git checkout -b my-feature`
-- Commit suas mudanças: `git commit -m 'feat: My new feature'`
-- Push a sua branch: `git push origin my-feature`
+- Fork this repository,
+- Create a branch with your resource: `git checkout -b my-feature`
+- Commit your changes: `git commit -m 'feat: My new feature' '
+- Push your branch: `git push origin my-feature`
 
-## Quem ministrou?
 
-As aulas foram ministradas pelo instrutor **[Mayk Brito](https://github.com/maykbrito)** nas aulas da **Next Level Week**.
+## Who ministered?
+
+The classes were taught by the instructor **[Mayk Brito] (https://github.com/maykbrito)** in the **Next Level Week** classes.
 
 <!--
 ## License
@@ -103,5 +105,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <h4 align="center">
-    Feito by <a href="https://www.linkedin.com/in/reinandesouza/" target="_blank">Reinan de Souza</a>
+    Made by <a href="https://www.linkedin.com/in/reinandesouza/" target="_blank">Reinan de Souza</a>
 </h4>
