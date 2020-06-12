@@ -17,6 +17,12 @@
   <br><br>
 </p>
 
+<!-- Resultado -->
+
+<h1 align="center">
+    <img alt="Web" src=".github/video.gif" width="900px">
+</h1>
+
 # Index
 
 - [About](#about)
@@ -47,14 +53,6 @@ The project was developed using the following technologies:
 - [Nodemon](https://nodemon.io/)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-<!--
-## Resultado:
-
-<h1 align="center">
-    <img alt="Web" src="#" width="900px">
-</h1>
-
-Aqui vou colocar uma imagem gif -->
 
 <a id="how-to-use"></a>
 
@@ -64,7 +62,6 @@ Aqui vou colocar uma imagem gif -->
 
   - It is **necessary** to have the **[Node.js](https://nodejs.org/en/)** installed on the machine
   - Also, it is **precise** to have a package manager either **[NPM](https://www.npmjs.com/)** or **[Yarn](https://yarnpkg.com/)**.
-  - Finally, it is **essential** to have the **[Express](https://expressjs.com/pt-br/)**.
 
 1. Make a clone:
 
@@ -78,7 +75,7 @@ Aqui vou colocar uma imagem gif -->
   # Install as dependencies
   $ npm install
 
-  # Launch the web application
+  # Launch the application
   $ npm start
 ```
 
@@ -88,7 +85,7 @@ Aqui vou colocar uma imagem gif -->
 
 - Fork this repository,
 - Create a branch with your resource: `git checkout -b my-feature`
-- Commit your changes: `git commit -m 'feat: My new feature`
+- Commit your changes: `git commit -m 'feat: My new feature' `
 - Push your branch: `git push origin my-feature`
 
 
@@ -96,12 +93,11 @@ Aqui vou colocar uma imagem gif -->
 
 The classes were taught by the instructor **[Mayk Brito](https://github.com/maykbrito)** in the **Next Level Week** classes.
 
-<!--
+
 ## License
 
-Devo criar um arquivo LICENSE.md
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
--->
+
 ---
 
 <h4 align="center">
