@@ -4,34 +4,20 @@
     <b>Recycle! Help the environment!</b>  
     <br>
 </h3>
-
+  
 <p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
-  </a>
-  <!--
-  <a>
-  <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
-  </a>
-  -->
-  <br><br>
+  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies-used">Technologies Used</a>
 </p>
 
 <!-- Resultado -->
-
 <h1 align="center">
     <img alt="Web" src=".github/video.gif" width="900px">
 </h1>
 
-# Index
-
-- [About](#about)
-- [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
-- [How to Contribute](#how-to-contribute)
 
 <a id="about"></a>
-
 ## About
 
 <strong>Ecoleta</strong> is a web application to help people find collection points for recycling.
@@ -39,10 +25,13 @@
 This application was built on the <strong>Next Level Week Starter</strong> track distributed by [Rocketseat](https://rocketseat.com.br/). The idea of ​​creating an application focused on the environment arose from the coincidence of the course date and the date of the <strong>environment week</strong>
 
 
-<!-- CRIAR UMA DOCUMENTAÇÃO (https://github.com/vitorserrano/ecoleta/blob/master/DOCUMENTATION.md)-->
+<a id="features"></a>
+## Features
+
+- Collection Point Registration.
+- Search the Database for the Collection Point, through the name of the city or part of it.
 
 <a id="technologies-used"></a>
-
 ## Technologies Used
 
 The project was developed using the following technologies:
@@ -55,7 +44,6 @@ The project was developed using the following technologies:
 
 
 <a id="how-to-use"></a>
-
 ## How to Use
 
 - ### **Pre-requisites**
@@ -80,7 +68,6 @@ The project was developed using the following technologies:
 ```
 
 <a id="how-to-contribute"></a>
-
 ## How to Contribute
 
 - Fork this repository,
